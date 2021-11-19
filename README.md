@@ -1,2 +1,2 @@
 # ExploreGithub
-Explore git hub features
+Explore git hub features by charan
